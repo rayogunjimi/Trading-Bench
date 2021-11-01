@@ -1,5 +1,5 @@
 # trading-bench
-An open API to historical/back-test or simulate stock trading algorithms
+An open sanbox API to historical/back-test or simulate stock trading algorithms
 
 ## Functionality:
 Back-test/simulate
