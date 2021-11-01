@@ -1,6 +1,9 @@
 # trading-bench
 An open sanbox API to historical/back-test or simulate stock trading algorithms
 
+## API Used:
+Uses https://www.alphavantage.co/#page-top
+
 ## Functionality:
 Back-test/simulate
 
