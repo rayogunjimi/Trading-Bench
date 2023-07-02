@@ -1,5 +1,5 @@
 # trading-bench
-An open sanbox API to historical/back-test or simulate/paper-trade stock trading algorithms. Functionality to switch to real trading is also included.
+A sandbox using open APIs to historical/back-test or simulate/paper-trade stock trading algorithms. Functionality to switch to real trading is also included.
 
 ## API Used:
 https://www.alphavantage.co/#page-top
